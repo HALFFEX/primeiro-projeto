@@ -1,5 +1,5 @@
 # Primeiro Projeto
-Criando nosso primeiro repositorio
+Criando meu primeiro repositorio
 
 
 ```
